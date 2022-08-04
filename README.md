@@ -1,3 +1,4 @@
+# Hello, I'am Kunal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kunal-patil-4ba636218/).
 - 😄 Pronouns: He/Him
