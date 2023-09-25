@@ -1,5 +1,5 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-- :man_student: I'm currently in my 3rd year of College.
+- :man_student: I'm currently in my 4thd year of College.
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kunal-patil-4ba636218/).
 - 😄 Pronouns: He/Him
