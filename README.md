@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript)
 ![React.Js](https://img.shields.io/badge/React.Js-232F7E?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white)  
+![DotNet](https://img.shields.io/badge/DotNet-232F7E?style=flat-square&logo=dotnet)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
