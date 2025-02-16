@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 - :man_student: I'm currently working as a Software Engineer at Medpace.
-- 🌱 Working on C# and Dotnet Development
+- 🌱 Working on Angular and Dotnet Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kunal-patil-4ba636218/).
 - 😄 Pronouns: He/Him
 
